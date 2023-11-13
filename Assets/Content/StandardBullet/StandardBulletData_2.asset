@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42f13d1b606d38e49b49bbab1661ceaf, type: 3}
+  m_Name: StandardBulletData_2
+  m_EditorClassIdentifier: 
+  _damage: 75
+  _flySpeed: 20
+  _liveTime: 1
+  _shootCooldown: 0.2
+  _bulletObject: {fileID: 5918159507617879438, guid: ecee6f5fc92421043b4600c200f591ba, type: 3}
+  _destroyOnFirst: 1

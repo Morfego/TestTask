@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8117b2673813da54196148d9f8cec4d6, type: 3}
+  m_Name: RecastBulleExplosiontLevelData
+  m_EditorClassIdentifier: 
+  _bulletData:
+  - {fileID: 11400000, guid: ab2e00792d726e348b311ac00c7a77f5, type: 2}
+  - {fileID: 11400000, guid: bd370e8fb1dadb54a93858c9a5f36785, type: 2}
+  - {fileID: 11400000, guid: 62a4a25acbe8aea43aa5ab0a5c4e1284, type: 2}
